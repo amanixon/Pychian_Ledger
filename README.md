@@ -13,4 +13,4 @@
 
  ![alt text](https://github.com/amanixon/Pychian_Ledger_Mod18/blob/main/Block%20chain%20photos/Blockchain.jpeg)
 
- ![alt text](https://github.com/[amanixon]/[Pychian_Ledger_Mod18]/blob/[main]/Validate.jpg?raw=true)
+ ![alt text](https://github.com/amanixon/Pychian_Ledger_Mod18/blob/main/Block%20chain%20photos/Blockchain.jpeg)
