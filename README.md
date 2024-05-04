@@ -11,3 +11,6 @@
 
 * Create additional user input areas in the Streamlit application. These input areas will collect the relevant information for each financial record that you’ll store in the PyChain ledger.
 
+![alt text]  (https://github.com/[amanixon]/[Pychian_Ledger_Mod18]/blob/[main]/Blockchain.jpg?raw=true)
+
+![alt text]  (https://github.com/[amanixon]/[Pychian_Ledger_Mod18]/blob/[main]/Validate.jpg?raw=true)
